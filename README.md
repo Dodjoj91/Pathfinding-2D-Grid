@@ -1,9 +1,7 @@
 # Pathfinding-2D-Grid
 
-
-										Pathfinder Implementation
-
 	Author: Daniel Jonsson
+
 
 	Introduction:
 
