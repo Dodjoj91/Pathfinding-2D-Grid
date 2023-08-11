@@ -24,9 +24,6 @@
     <ClCompile Include="Macros.h">
       <Filter>Header Files</Filter>
     </ClCompile>
-    <ClCompile Include="Start.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="PathFinder.h">

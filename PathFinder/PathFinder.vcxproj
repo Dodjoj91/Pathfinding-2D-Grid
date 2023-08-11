@@ -132,7 +132,6 @@
     <ClCompile Include="Macros.h" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="PathFinder.cpp" />
-    <ClCompile Include="Start.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BaseEnums.h" />
